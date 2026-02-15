@@ -1,0 +1,7 @@
+{
+  "name": "Travel Baddy Assistant",
+  "description": "An AI-powered travel assistant that provides real-time traffic, weather, and venue information using Gemini and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
